@@ -191,6 +191,11 @@
 - [Swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files.
 - [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
+## OSINT
+- [OSINT_Framework](https://osintframework.com/)
+- [TinEye](https://tineye.com/)
+- [Shodan](https://www.shodan.io/) Hacker Search Engine
+
 ## Services
 *Various kind of useful services available around the internet*
 - [CSWSH](http://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
