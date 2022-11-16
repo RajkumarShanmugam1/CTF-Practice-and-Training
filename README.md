@@ -1,6 +1,9 @@
 # CTF-Practice-and-Training
 ##### Practice your hacking skills with these CTFs
 
+![image](https://user-images.githubusercontent.com/76644058/202253179-6d29e9ef-d3b7-49b8-b90b-60358ec4e843.png)
+
+
 ## What Is CTF?
 
 >CTF (Capture The Flag) is a fun way to learn hacking. It's an information security competition, you have to solve challenges from decoding a string to hacking into a server. The goal is to find a specific piece of text called flag.
@@ -300,4 +303,4 @@
 
 ---
 
-# Thank you for visit my for your busy time  
+# Thank you for visit my for your busy time
