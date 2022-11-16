@@ -12,6 +12,8 @@
 
 >CTF Sites is the biggest collection of CTF sites, contains only permanent CTFs. I started this project more for myself in the beginning, like a cheat sheet but then I thought it would be good to make it publicly available, it would help a lot of people.
 
+![image](https://capturetheflag.withgoogle.com/img/flag_logo.gif)
+
 ---
 # Resources
 
